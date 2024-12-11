@@ -1,4 +1,4 @@
-<h1 align="center">Exploring the World of Data and Design Sneha Thomas</h1>
+<h1 align="center">HI!! i am Sneha Thomas</h1>
 <h3 align="center">Embarking on a Journey of Projects and Passions: A Developer from India</h3>
 
 - 🌱 I’m currently learning **Frameworks and some technological courses**
